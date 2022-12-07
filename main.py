@@ -10,8 +10,8 @@ class Cars:
 print("1-yellow, 2-blue, 3-black")
 
 x1 = Cars("Land Rover", 2018, 3)
-x2 = Cars("Toyota", 2014, 2)
-x3 = Cars("Mercedes", 2016, 1)
+x2 = Cars("Toyota", 2014, 1)
+x3 = Cars("Mercedes", 2016, 2)
 
 print(x1.brand)
 print(x1.year)
